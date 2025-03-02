@@ -1,4 +1,4 @@
-# Assignments-Python-
+# Assignments-1-Python
 
 This repository contains two Python scripts:
 
